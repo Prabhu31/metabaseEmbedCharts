@@ -4,7 +4,7 @@
 
 ### Prerequisite
 
-Replace TOKEN with Metabase Embedding Secret Key in `backend/app.js` line 7
+Replace TOKEN with Metabase Embedding Secret Key in `backend/app.js` line 6
 
 ### To run the local node server
 
